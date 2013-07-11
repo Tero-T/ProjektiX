@@ -11,7 +11,6 @@ import org.springframework.web.servlet.DispatcherServlet;
 
 public class WebInit implements WebApplicationInitializer {
 
-	@Override
 	public void onStartup(ServletContext container) {
 		System.out.println("testginss");
 		AnnotationConfigWebApplicationContext ctx = new AnnotationConfigWebApplicationContext();
