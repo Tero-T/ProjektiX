@@ -169,7 +169,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>spring-demo</finalName>
+		<finalName>ProjektiX</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
